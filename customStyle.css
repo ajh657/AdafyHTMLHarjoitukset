@@ -1,0 +1,16 @@
+.rowItemPadding{
+    margin: 1em 1.5em 1em 1.5em;
+}
+
+.listItem{
+    padding: 1em 1em 1em 1em;
+    background-color: white;
+}
+
+.listTitle{
+    padding-top: 2em;
+}
+
+.listRow{
+    padding-top: 2rem;
+}
